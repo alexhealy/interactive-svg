@@ -24,7 +24,7 @@
 
 #left-ear,
 #right-ear {
-  transition: al .5s ease-in;
+  transition: all .5s ease-in;
 }
 
 #bear:hover #right-ear,
